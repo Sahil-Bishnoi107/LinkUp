@@ -16,14 +16,48 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## 📸 App Screenshots
 
-### 🏠 Home Screen  
-<img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.28_a99417b6.jpg" alt="Home" width="300"/>
+Here are some screenshots of the app in action:
 
-### 💬 Chat Screen  
-<img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.34_a3b27805.jpg" alt="Chat" width="300"/>
+<p float="left">
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.28_a99417b6.jpg" width="250"/>
+  &nbsp;
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.34_a3b27805.jpg" width="250"/>
+  &nbsp;
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.35_e5c671f9.jpg" width="250"/>
+</p>
 
-### 🔗 Updates Page  
-<img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.35_e5c671f9.jpg" alt="Updates" width="300"/>
+<p float="left">
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.36_babc1234.jpg" width="250"/>
+  &nbsp;
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.37_def45678.jpg" width="250"/>
+  &nbsp;
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.38_ghij9876.jpg" width="250"/>
+</p>
+
+<p float="left">
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.39_klmn4567.jpg" width="250"/>
+  &nbsp;
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.40_opqr2345.jpg" width="250"/>
+  &nbsp;
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.41_stuv6789.jpg" width="250"/>
+</p>
+
+<p float="left">
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.42_wxyz1122.jpg" width="250"/>
+  &nbsp;
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.43_zzzz9988.jpg" width="250"/>
+  &nbsp;
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.44_aaaa5533.jpg" width="250"/>
+</p>
+
+<p float="left">
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.45_bbcc7788.jpg" width="250"/>
+  &nbsp;
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.46_ccdd3344.jpg" width="250"/>
+  &nbsp;
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.47_ddee2211.jpg" width="250"/>
+</p>
+
 
 
 
