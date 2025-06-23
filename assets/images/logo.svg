@@ -1,0 +1,19 @@
+<svg width="300" height="100" viewBox="0 0 300 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7F00FF"></stop>
+      <stop offset="100%" stop-color="#E100FF"></stop>
+    </linearGradient>
+  </defs>
+  
+  <!-- Chain-style Link Icon -->
+  <g transform="translate(10, 20)">
+    <rect x="0" y="0" width="30" height="50" rx="10" fill="url(#grad)" transform="rotate(45 15 25)"></rect>
+    <rect x="25" y="0" width="30" height="50" rx="10" fill="white" stroke="url(#grad)" stroke-width="3" transform="rotate(-45 40 25)"></rect>
+  </g>
+
+  <!-- Text -->
+  <text x="80" y="60" font-family="Segoe UI, sans-serif" font-size="36" fill="url(#grad)" font-weight="bold">
+    LinkUp
+  </text>
+</svg>

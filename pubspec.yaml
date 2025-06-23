@@ -1,0 +1,127 @@
+name: linkup
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  cloud_firestore: ^5.6.8
+  cloudinary_public: ^0.23.1
+  firebase_auth: ^5.5.4
+  firebase_core: ^3.13.1
+  firebase_database: ^11.3.6
+  flutter_svg: ^2.1.0
+  google_sign_in: ^6.3.0
+  image_cropper: ^9.1.0
+  image_picker: ^1.1.2
+  provider: ^6.1.5
+  intl: ^0.20.2
+  shared_preferences: ^2.5.3
+  flutter_launcher_icons: ^0.14.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.svg
+    - assets/bgimages/loginpage.png
+    - assets/images/googlelogo.svg
+    - assets/images/createaccountlogo.svg
+    - assets/bgimages/registerbg.png
+    - assets/bgimages/bgr.png
+    - assets/bgimages/profilebg.jpg
+    - assets/bgimages/chatbg2.png
+    - assets/bgimages/chatbg3.png
+    - assets/chatimages/yellow.jpg
+    - assets/chatimages/orange.jpg
+    - assets/chatimages/patterns1.jpg
+    - assets/chatimages/patterens_organised.jpg
+    - assets/chatimages/blue_icons.avif
+    - assets/chatimages/boom.jpg
+    - assets/chatimages/skyblue.jpg
+    - assets/chatimages/profilebg1.avif
+    - assets/profile/blue.jpg
+    - assets/profile/hexagon.jpg
+    - assets/profile/pup.jpg
+    - assets/profile/silver.jpg
+    - assets/friendsimages/f1.avif
+    - assets/friendsimages/f2.jpg
+    - assets/friendsimages/f3.avif
+    - assets/images/message-4-svgrepo-com.svg
+    - assets/images/saved-svgrepo-com.svg
+    - assets/images/add-square-svgrepo-com (1).svg
+    - assets/images/add-square-svgrepo-com.svg
+    - assets/images/heart-svgrepo-com (1).svg
+    - assets/images/heart-svgrepo-com.svg
+    - assets/images/comment-2-svgrepo-com.svg
+    - assets/images/send-email-svgrepo-com.svg
+    - assets/images/like-1386-svgrepo-com.svg
+    - assets/images/chat-comment-messages-talk-2-svgrepo-com.svg
+    - assets/images/message-square-lines-svgrepo-com.svg
+    - assets/images/message-square-lines-svgrepo-com (1).svg
+
+  fonts:
+    - family: ConcertOne
+      fonts:
+        - asset: assets/fonts/newfonts/ConcertOne-Regular.ttf
+
+    - family: Lobster
+      fonts:
+        - asset: assets/fonts/newfonts/Lobster-Regular.ttf
+
+    - family: Nunito
+      fonts:
+        - asset: assets/fonts/nunito/Nunito-Italic-VariableFont_wght.ttf
+        - asset: assets/fonts/nunito/Nunito-VariableFont_wght.ttf
+        - asset: assets/fonts/nunito/Nunito-Regular.ttf
+
+    - family: Orbitron
+      fonts:
+        - asset: assets/fonts/newfonts/Orbitron-VariableFont_wght.ttf
+
+    - family: Pacifico
+      fonts:
+        - asset: assets/fonts/newfonts/Pacifico-Regular.ttf
+
+    - family: PermanentMarker
+      fonts:
+        - asset: assets/fonts/newfonts/PermanentMarker-Regular.ttf
+
+    - family: PoetsenOne
+      fonts:
+        - asset: assets/fonts/newfonts/PoetsenOne-Regular.ttf
+
+    - family: Alice
+      fonts:
+        - asset: assets/fonts/textfonts/Alice-Regular.ttf
+
+    - family: Bangers
+      fonts:
+        - asset: assets/fonts/textfonts/Bangers-Regular.ttf
+
+    - family: EduSAHand
+      fonts:
+        - asset: assets/fonts/textfonts/EduSAHand-VariableFont_wght.ttf
+
+    - family: Kalam
+      fonts:
+        - asset: assets/fonts/textfonts/Kalam-Regular.ttf
+
+    - family: LobsterTwo
+      fonts:
+        - asset: assets/fonts/textfonts/LobsterTwo-Regular.ttf
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logos/1.png"
