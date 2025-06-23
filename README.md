@@ -1,19 +1,14 @@
-# linkup
+# LinkUp
 
-A new Flutter project.
+A sleek social connection app built with Flutter.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔗 Seamless social link sharing
+- 🧾 Clean and responsive UI
+- 💬 Chat interfaces
+- 🧑‍💼 Profile pages
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 ## 📸 App Screenshots
 
 <p float="left">
@@ -23,44 +18,30 @@ samples, guidance on mobile development, and a full API reference.
   &nbsp;
   <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.35_e5c671f9.jpg" width="200"/>
   &nbsp;
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.36_babc1234.jpg" width="200"/>
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.34_f563e0ee.jpg" width="200"/>
 </p>
 
 <p float="left">
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.37_def45678.jpg" width="200"/>
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.33_eff38039.jpg" width="200"/>
   &nbsp;
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.38_ghij9876.jpg" width="200"/>
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.33_c11b6c7e.jpg" width="200"/>
   &nbsp;
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.39_klmn4567.jpg" width="200"/>
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.32_a9161327.jpg" width="200"/>
   &nbsp;
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.40_opqr2345.jpg" width="200"/>
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.32_a0caedc2.jpg" width="200"/>
 </p>
 
 <p float="left">
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.41_stuv6789.jpg" width="200"/>
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.32_493d40a7.jpg" width="200"/>
   &nbsp;
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.42_wxyz1122.jpg" width="200"/>
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.31_f39980cb.jpg" width="200"/>
   &nbsp;
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.43_zzzz9988.jpg" width="200"/>
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.31_f092a213.jpg" width="200"/>
   &nbsp;
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.44_aaaa5533.jpg" width="200"/>
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.30_e1225a80.jpg" width="200"/>
 </p>
 
 <p float="left">
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.45_bbcc7788.jpg" width="200"/>
+  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.30_537909c8.jpg" width="200"/>
   &nbsp;
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.46_ccdd3344.jpg" width="200"/>
-  &nbsp;
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.47_ddee2211.jpg" width="200"/>
-  &nbsp;
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.48_eeff8899.jpg" width="200"/>
-</p>
-
-
-  &nbsp;
-  <img src="images/WhatsApp%20Image%202025-06-23%20at%2023.06.47_ddee2211.jpg" width="250"/>
-</p>
-
-
-
-
+  <img src="images/Wh
